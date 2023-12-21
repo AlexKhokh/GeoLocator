@@ -1,0 +1,6 @@
+{	
+	"configProperties": {
+		"System.Threading.ThreadPool.Blocking.ThreadsToAddWithoutDelay_ProcCountFactor": 50,
+		"System.Threading.ThreadPool.MinThreads":  40
+	}	
+}
